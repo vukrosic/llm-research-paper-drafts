@@ -5,7 +5,7 @@ Vuk Rosić · **Join: [AI Research School](https://www.skool.com/become-ai-resea
 Six near-finished research papers on language models: optimizers, attention, linear attention and embeddings. Each folder has the paper (PDF, Markdown and HTML), the results, the code and a script to reproduce the runs. You can take any of them, extend the experiments and write it up for a conference such as ICML 2027. Code under the MIT licence.
 
 > [!IMPORTANT]
-> Don't just generate a paper and submit it. Spend about a month checking every experiment, understanding each part and writing the paper carefully.
+> Don't just generate a paper and submit it. It will be rejected. Spend about a month researching and improving it.
 
 | # | Paper | Read |
 |---|---|---|
